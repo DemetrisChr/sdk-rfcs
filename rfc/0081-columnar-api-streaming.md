@@ -343,10 +343,10 @@ The timeout should apply to the whole stream. This is similar to the approach in
 
 | Language | Team Member | Signoff Date | Revision |
 | :---- | :---- | :---- | :---- |
-| Node.js | Jared Casey |  |  |
+| Node.js | Jared Casey | 2025-02-03 | 4 |
 | Go | Charles Dixon |  |  |
 | PHP | Sergey Avseyev |  |  |
-| Python | Jared Casey |  |  |
+| Python | Jared Casey |  2025-02-03 | 4 |
 | Scala | Graham Pople | 2024-08-22 | 4 |
 | .NET | Jeffry Morris |  |  |
 | Java | David Nault | 2025-01-22 | 4 |
